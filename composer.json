@@ -1,0 +1,8 @@
+{
+  "name": "legolasbo/masonry",
+  "description": "Shim repository for masonry: Cascading grid layout library",
+  "type": "drupal-library",
+  "license": "MIT",
+  "homepage": "http://masonry.desandro.com",
+  "version": "4.1.0"
+}
